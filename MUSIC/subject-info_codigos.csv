@@ -1,0 +1,79 @@
+Variable;Código;Descripción
+Exit of the study;0;survivor
+Exit of the study;1;lost to follow-up
+Exit of the study;2;cardiac transplantation
+Exit of the study;3;Death
+Cause of death;0;survivor
+Cause of death;1;non-cardiac death
+Cause of death;3;SCD
+Cause of death;6-7;Pump-failure death
+HF etiology - Diagnosis;1;Idiopathic dilated cardiomyopathy
+HF etiology - Diagnosis;2;Ischemic dilated cardiomyopathy
+HF etiology - Diagnosis;3;Enolic dilated cardiomyopathy
+HF etiology - Diagnosis;4;Valvular cardiomyopathy
+HF etiology - Diagnosis;5;Toxic dilated cardiomyopathy
+HF etiology - Diagnosis;6;Post-myocardial dilated cardiomyopathy
+HF etiology - Diagnosis;7;Hypertrophic cardiomyopathy
+HF etiology - Diagnosis;8;Hypertensive cardiomyopathy
+HF etiology - Diagnosis;9;Other
+Prior implantable device;0;No
+Prior implantable device;1;Pacemaker-I
+Prior implantable device;2;Pacemaker-II
+Prior implantable device;3;Pacemaker-III
+Prior implantable device;4;CRT-I
+Prior implantable device;5;ICD
+Prior implantable device;6;Unknown device
+Prior implantable device;8;CRT-II
+Prior Revascularization;0;No
+Prior Revascularization;1;Percutaneous revascularization
+Prior Revascularization;2;Surgical revascularization
+Prior Revascularization;3;Both
+Syncope;0;NO
+Syncope;1;Yes, but not documented/studied
+Syncope;2;Yes, documented and studied
+Mitral valve insufficiency ;0;No
+Mitral valve insufficiency ;1;I/IV
+Mitral valve insufficiency ;2;II/IV
+Mitral valve insufficiency ;3;III/IV
+Mitral valve insufficiency ;4;IV/IV
+Mitral flow pattern;0;Normal
+Mitral flow pattern;1;Impaired
+Mitral flow pattern;2;Pseudonormal
+Mitral flow pattern;3;Restrictive
+Mitral flow pattern;9;Others
+ECG rhythm ;0;Sinusal
+ECG rhythm ;1;Permanent AF
+ECG rhythm ;2;Atrial flutter
+ECG rhythm ;3;Pacemaker
+Intraventricular conduction disorder;1;Right bundle branch block (RBBB)
+Intraventricular conduction disorder;2;Left bundle branch block (LBBB)
+Intraventricular conduction disorder;3;Hemibloqueo anterosuperior (HBA)
+Intraventricular conduction disorder;4;Hemibloqueo posteroinferior (HBP)
+Intraventricular conduction disorder;5;RBBB+HBA
+Intraventricular conduction disorder;6;RBBB+HBP
+Intraventricular conduction disorder;7;Others
+Holter  rhythm ;0;Sinusal
+Holter  rhythm ;1;Permanent AF
+Holter  rhythm ;2;Atrial flutter
+Holter  rhythm ;3;Pacemaker
+Ventricular Extrasystole;0;No
+Ventricular Extrasystole;1;Monomorphic
+Ventricular Extrasystole;2;Polymorphic
+Ventricular Extrasystole;3;Couplets
+Ventricular Tachycardia;0;No
+Ventricular Tachycardia;1;Non-sustained VT
+Ventricular Tachycardia;2;Sustained VT
+Ventricular Tachycardia;3;Torsade de Points
+Paroxysmal supraventricular tachyarrhythmia;0;No
+Paroxysmal supraventricular tachyarrhythmia;1;TPSV
+Paroxysmal supraventricular tachyarrhythmia;2;Parosysmal AF
+Paroxysmal supraventricular tachyarrhythmia;3;Paroxismal flutter
+Paroxysmal supraventricular tachyarrhythmia;4;others
+Paroxysmal supraventricular tachyarrhythmia;9;NAxFA crónica
+Bradycardia;0;No
+Bradycardia;1;Sinus Node Dysfunction
+Bradycardia;2;First-degree Atrioventricular block (AVB)
+Bradycardia;3;Second-degree AVB - type I
+Bradycardia;4;Second-degree AVB - type II
+Bradycardia;5;Third-degree AVB
+Bradycardia;6;Paroxysmal AVB
