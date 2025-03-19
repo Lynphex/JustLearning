@@ -1,7 +1,6 @@
 
 # 🚀 Make Foundations - Notas del Curso  
-
-Este repositorio contiene mis apuntes y aprendizajes del curso **Make Foundations** en Make Academy. Aquí encontrarás lo esencial para comenzar a crear automatizaciones poderosas sin escribir código  
+  
 
 ## 📌 ¿Qué es Make?  
 Make (antes Integromat) es una plataforma de automatización visual que permite conectar apps y servicios para optimizar flujos de trabajo sin necesidad de programación...  
